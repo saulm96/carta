@@ -1,0 +1,20 @@
+
+.adressInfo{
+    text-align: right;
+    line-height: 0.5;
+    font-size: 90%;
+    font-style: italic;
+}
+.destinInfo{
+    line-height: 0.5;
+
+    font-size: 90%;
+    font-style: italic;
+}
+.displaced{
+    margin-left: 30px;
+}
+
+body{
+
+}
